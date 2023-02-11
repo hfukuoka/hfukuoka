@@ -1,7 +1,7 @@
 ## About me
 Hi, I'm a 4th year undergraduate student and software engineer. 
 
-## 🌱 my skills
+## 🌱 Skills
 ### Programming Language
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,ts,js,python,cpp" />
 
@@ -11,7 +11,7 @@ Hi, I'm a 4th year undergraduate student and software engineer.
 ### Development Tool
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,git,github,docker,firebase" />
 
-## Work
+## 🚀 Works
 [![SimpleTodo](https://github-readme-stats.vercel.app/api/pin/?username=hfukuoka&repo=SimpleTodo)](https://github.com/hfukuoka/SimpleTodo)
 [![poetfolio](https://github-readme-stats.vercel.app/api/pin/?username=hfukuoka&repo=portfolio)](https://github.com/hfukuoka/portfolio)
 
@@ -24,7 +24,7 @@ Hi, I'm a 4th year undergraduate student and software engineer.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hfukuoka&margin-w=5)](https://github.com/hfukuoka/)
 
-## 📨 Contact me.
+## 📨 Contact me
 
 **[Twitter - @Hafu421](https://twitter.com/HaFu421)** | **[Portfolio Web](https://portfolio-hfukuoka.vercel.app/)**
 
