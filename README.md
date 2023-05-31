@@ -1,5 +1,5 @@
 ## About me
-Hi, I'm a 4th year undergraduate student and software engineer. 
+Hi,　I'm a first year master student at Tohoku University, School of Engineering and a software engineer. 
 
 ## 🌱 Skills
 ### Programming Language
