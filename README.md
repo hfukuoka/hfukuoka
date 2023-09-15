@@ -3,7 +3,7 @@ Hi, I'm a first year master student at Tohoku University, School of Engineering 
 
 ## 🌱 Skills
 ### Programming Language
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,ts,js,python,cpp,dart,mysql,postgresql" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,ts,js,python,c,cpp,dart,mysql,postgresql" />
 
 ### Framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nodejs,nextjs,tailwind,threejs,flutter,fastapi,flask" />
