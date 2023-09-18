@@ -5,8 +5,8 @@ Hi, I'm a first year master student at Tohoku University, School of Engineering 
 ### Programming Language
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,scss,ts,js,python,c,cpp,dart,mysql,postgresql" />
 
-### Framework
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nodejs,nextjs,tailwind,threejs,flutter,fastapi,flask,pytorch" />
+### Framework and Library
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nodejs,nextjs,tailwind,bootstrap,threejs,flutter,fastapi,flask,pytorch" />
 
 ### Development Tool
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,git,github,docker,firebase,gcp,supabase" />
