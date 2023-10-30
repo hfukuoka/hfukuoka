@@ -9,7 +9,7 @@ Hi, I'm a first year master student at Tohoku University, School of Engineering 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,nodejs,nextjs,tailwind,bootstrap,threejs,flutter,fastapi,flask,pytorch" />
 
 ### Development Tool
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,git,github,docker,firebase,gcp,supabase" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,git,github,docker,firebase,gcp,aws,supabase" />
 
 ## 🚀 Works
 [![SimpleTodo](https://github-readme-stats.vercel.app/api/pin/?username=hfukuoka&repo=SimpleTodo)](https://github.com/hfukuoka/SimpleTodo)
